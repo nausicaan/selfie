@@ -1,0 +1,690 @@
+				<p class="no-indent">Wakanda Military Research Complex</p>
+				<p class="no-indent">Mojave Desert</p>
+				<p class="no-indent">February 8, 2021</p>
+				<p class="no-indent">2032 h Zulu</p>
+				
+				<br><br>
+				 				
+				<p class="story">The air tasted stale in the hallway outside the level 5 security doors where Staff Sargent Owen Nash spent most of his days. In fact, he thought, the air tasted stale in every room in this damn complex. At least it did in every room he&rsquo;d ever been in. He suspected the <span class="italics">big wigs</span> had fresh air from the outside pumped into their offices. But he was only an MP, his job was to stand and guard, not to smell the air.</p>
+				
+				<p class="story">Nevertheless, he had complained to the engineers, but they assured him that the re-circulated air was perfectly fine, and that it was all in his head. Nash had grown up on a farm in Alberta, and no one was going to tell him that the air he&rsquo;d been breathing for the last two months was fresh.</p>
+				
+				<p class="story">If anyone ever asked, Nash liked to say he was six feet tall, but in reality he was closer to 5&prime; 11&Prime;. He had just turned twenty-eight three days ago, but no one had noticed. That was the advantage of being the new guy, no one new when your birthday was, and no one would make a fuss about it. Nash hated celebrating birthdays. Even as a child he would have preferred to discard all the candles and singing in favour of a drive-up window where friends and well-wishers could drop off their presents and go. And as an adult he saw even less purpose in the whole ordeal. He had already achieved all the important milestones of age. When he turned eighteen he could vote, when he turned twenty&ndash;one he could drink, though he&rsquo;d already been doing that. But now, at twenty-eight, he was just one more year closer to middle age. Sixty&ndash;five, that was the next birthday he would celebrate, he decided.</p>
+				
+				<p class="story">&ldquo;Nash took another breath and scowled. He would have loved nothing better than to go and tear another strip off those engineers, but today was not going to be the day. The place was full of brass, the kind that makes everyone nervous. It seemed like every four-star General from every branch of the military was there today. He hadn&rsquo;t saluted that much since boot camp. The doors behind him had seen a dozen secret meetings in the last seven hours.</p>
+				
+				<p class="story">&ldquo;Nash and his partner, Master Sargent Charlie Blair, stood at attention and saluted once more as General Conrad Witherspoon, chairmen of the Joint Chiefs of Staff walked in for yet another closed-door meeting.</p>
+				
+				<p class="story">&ldquo;Nash looked over at his partner. Blair was taller than he was, with graying hair and neatly trimmed mustache. His uniform was crisp and he looked very much the model MP. Nash imagined he had looked this way his entire career. Nineteen years Blair had stood at one post or another, saluted every president and General of consequence, and been a part of more secret projects than any other person alive. But always on the outside, always standing between the rest of the world and the few who knew what was really going on, but never knowing himself. And next year he would be eligible for retirement. A fact, which Nash had learned, he was dreading.</p>
+				
+				<p class="story">&ldquo;Blair returned the look along with a nod that meant he understood. There was something big going on in that room. They would never know what it was, but they knew it was important. Four-star Generals don&rsquo;t leave the comfort of their Pentagon offices, travel to the middle of Mojave Desert, and spend the day breathing re&ndash;circulated air in an underground complex just for something to do. There are only two reasons a General comes to a place like this, inspection and pinnacle. Pinnacle was a military term that meant that whatever they were planning was about to come to fruition. Nash wasn&rsquo;t sure about that, but he was sure this was no inspection. Besides, you don&rsquo;t need five Generals and a half dozen &ldquo;suits&rdquo; to do an inspection.</p>
+				
+				<p class="story">&ldquo;Blair broke the silence. &ldquo;Nash, you&rsquo;re Canadian aren&rsquo;t you?&rdquo;</p>
+				
+				<p class="story">&ldquo;Sort of.&rdquo;</p>
+				
+				<p class="story">&ldquo;How can you be sort of Canadian?&rdquo;</p>
+				
+				<p class="story">&ldquo;After the war I became a US citizen.&rdquo;</p>
+				
+				<p class="story">&ldquo;You mean the Canadian civil war?&rdquo;</p>
+				
+				<p class="story">&ldquo;Yeah, after Alberta and Saskatchewan broke away from Canada, the US offered citizenship to anyone who wanted it.&rdquo;</p>
+				
+				<p class="story">&ldquo;You fought for the rebels? That was twelve years ago, you had to be too young.&rdquo;</p>
+				
+				<p class="story">&ldquo;I was sixteen, my father convinced me to join the rebel army with a speech about western pride and some other crap I can&rsquo;t remember anymore.&rdquo;</p>
+				
+				<p class="story">Just then the doors opened, Nash and Blair both jerked to attention, in full salute.</p>
+
+				<p class="story">&ldquo;There&rsquo;s no need for that boys, it&rsquo;s just me.&rdquo;</p>
+
+				<p class="story">&ldquo;Dr. Dorothy Liddon, head researcher and noted anti&ndash;militarist patted them both on the shoulder as she passed. Nash and Blair returned to their at ease stance. The door clicked shut behind her. She was a slim woman, and more than good looking for a woman of her age. She was forty&ndash;nine, but would never admit it. Her long, slender fingers grasped a clipboard she held close to her chest. Nash watched her as she walked away, her dark, mid&ndash;length hair swaying with each step. She stopped and turned back, her eyes on Blair.</p>
+				
+				<p class="story">&ldquo;Charlie, do you have a smoke on you? I could kill for one,&rdquo; her English accent barely noticeable; living in America for twenty years had diluted it.</p>
+				
+				<p class="story">&ldquo;No ma&rsquo;am,&rdquo; he paused, &ldquo;I thought you quit.&rdquo;</p>
+				
+				<p class="story">&ldquo;I told you to stop calling me ma&rsquo;am, you&rsquo;ve known me for three years, you can call me Dorothy.&rdquo;</p>
+				
+				<p class="story">&ldquo;OK, Dorothy. You did quit, didn&rsquo;t you?&rdquo;</p>
+				
+				<p class="story">&ldquo;That was before I realized how aggravating these army assholes could be, no offense.&rdquo;</p>
+				
+				<p class="story">&ldquo;None taken,&rdquo; he responded instantly, &ldquo;but to be precise only one of those assholes is from the army.&rdquo;</p>
+				
+				<p class="story">&ldquo;Well they all look alike to me. They certainly sound alike, same stupid questions and irrelevant concerns. How do they ever get anything done?&rdquo;</p>
+				
+				<p class="story">Blair stood straight again and said in his best army voice. &ldquo;The military is an efficient, well&ndash;oiled machine.&rdquo;</p>
+				
+				<p class="story">&ldquo;What does that mean?&rdquo;</p>
+				
+				<p class="story">He relaxed and smiled. &ldquo;Nothing, that&rsquo;s just what we&rsquo;re supposed to say to questions like that, it&rsquo;s in the handbook.&rdquo;</p>
+				
+				<p class="story">Dorothy and Blair enjoyed a good laugh, but Nash stood silent, not even cracking a smile. That was the way he was around her, he couldn&rsquo;t seem to relax when she was near him. She ignored it, and him, as she always did, and continued.</p>
+				
+				<p class="story">&ldquo;I&rsquo;ve got to find a cigarette, or I&rsquo;m going to lose it.&rdquo;</p>
+				
+				<p class="story">&ldquo;Maybe Nash has one.&rdquo; Blair turned to him, a warm smile on his face. &ldquo;Do you?&rdquo;</p>
+				
+				<p class="story">&ldquo;I don&rsquo;t smoke.&rdquo; He said nervously.</p>
+				
+				<p class="story">&ldquo;Thanks anyway Charlie, I&rsquo;ll ask upstairs.&rdquo; She turned and left, never making eye contact with Nash.</p>
+				
+				<p class="story">Nash frowned and turned to Blair. &ldquo;Why does she hate me?&rdquo;</p>
+				
+				<p class="story">&ldquo;She doesn&rsquo;t hate you; she just doesn&rsquo;t know you yet. When I was first posted here she didn&rsquo;t say more than two words to me. It just takes her time to warm up to people.&rdquo;</p>
+				
+				<p class="story">&ldquo;No, it&rsquo;s something different; she won&rsquo;t even look at me. There&rsquo;s this weird vibe between us whenever we&rsquo;re in the same place. She hates me.&rdquo;</p>
+				
+				<p class="story">Blair shook he head and chuckled. &ldquo;You&rsquo;re still too young to be this paranoid, she doesn&rsquo;t hate you.&rdquo;</p>
+
+				<br><br>
+				
+				<p class="no-indent">February 9, 2021</p>
+				<p class="no-indent">1812 h Zulu</p>
+				
+				<br><br>
+
+				<p class="story">Nash and Blair were back on rotation. They had just relieved the day shift, and had barely finished saluting the parade of Generals who had stayed an unprecedented second day, when Dorothy approached Blair.</p>
+				
+				<p class="story">&ldquo;The generals won&rsquo;t be back tonight, so you can give your arms a rest.&rdquo; She smiled warmly, the kind of smile she always had for Blair, but never had for Nash. &ldquo;I got some things to wrap up inside, then you guys will be on your own.&rdquo;</p>
+				
+				<p class="story">She returned to her sanctuary and for more than three hours there was no sound from inside. Which was normal, the room was practically sound proof. It would take an explosion to cause even a decibel of sound to escape. Blair reached into an inner pocket and retrieved a pack of cigarettes. He lit one carefully and inhaled deeply as he returned the pack to his pocket.</p>
+				
+				<p class="story">&ldquo;I thought you were out?&rdquo; Nash inquired.</p>
+				
+				<p class="story">&ldquo;I lied,&rdquo; he grinned, &ldquo;she&rsquo;s been good for three months; I didn&rsquo;t want to derail her chances of quitting this shitty habit.&rdquo;</p>
+				
+				<p class="story">Nash was about to retort with a smart&ndash;ass remark when a strange sensation trickled through him. It felt like butterflies in his stomach, he would have been content to leave it as that, but it was growing.</p>
+				
+				<p class="story">&ldquo;Do you feel something?&rdquo;</p>
+				
+				<p class="story">&ldquo;Yeah, what is tha&mdash;&ldquo;</p>
+				
+				<p class="story">Then like a hammer, Nash felt a shock wave crashed through him. It carried no sound or visible phenomenon, but nonetheless it knocked him to the ground. Nash looked over at Blair; he was on the floor too. Whatever it was, it&rsquo;d had the same effect on him. They looked at each other stunned for a moment, and then Blair leapt to his feet. He grabbed the lit cigarette that had fallen from his mouth and turned to rush inside. He unlocked the door and pulled it open forcefully, followed by Nash, both of them still confused and shaken.</p>
+				
+				<p class="story">Nash surveyed the room quickly, as his training had taught him. He breathed the air; it was smoky. Not the kind he would have smelled if Dorothy had fallen of the wagon, but the kind produced when circuits burn out. Nash recognized the difference immediately, thanks to his rebel days. He used to bunk with a guy who fixed circuits and motherboards, and anything else electronic. It got so he couldn&rsquo;t stand the smell of solder. Instinctively he began to head for the heart of the smoke.</p>
+				
+				<p class="story">Then he stopped.</p>
+				
+				<p class="story">In the middle of that secret room which neither he nor Blair had ever been in, there it was. At the center of a pulpit of computers arranged liked praying parishioners it hovered. No strings, no support, nothing but the phenomenon itself, alone and perfect.</p>
+				
+				<p class="story">It was a sphere, a perfect sphere. Transparent but visible, distortion waves ran along the surface like ripples. In that way it seemed liquid, like a ball of water suspended effortlessly, a blue shimmer softy glinting from it, bathing the entire room in a light that seemed warmer than its rich ocean colour. Aside from that the lab was dark; no significant overhead lighting was obvious. The majority of the illumination came from strange machines that flickered and beeped in unrecognizable patterns.</p>
+				
+				<p class="story">Nash didn&rsquo;t turn to see if Blair had noticed the phenomenon, in fact he had forgotten anyone else existed.</p>
+				
+				<p class="story">Then Blair broke the spell. &ldquo;Dorothy!&rdquo;</p>
+				
+				<p class="story">Nash pulled himself from the sphere&rsquo;s hypnotic hold long enough to notice what Blair was doing. He pivoted his head to the sound of his voice; his eyes focused on Blair as he vaulted the distance between himself and Dorothy.</p>
+				
+				<p class="story">&ldquo;Nash, over here.&rdquo;</p>
+				
+				<p class="story">Blair was holding Dorothy in his arms, her limp body offered no resistance; she looked pale and weak.</p>
+				
+				<p class="story">&ldquo;Is she&hellip;?&rdquo; Nash started.</p>
+				
+				<p class="story">&ldquo;No, she&rsquo;s alive, but she took a blow to the head, we have to get her to the infirmary.&rdquo; He looked around again, pausing for a moment on the sphere. &ldquo;I don&rsquo;t know what the hell&rsquo;s going on here. Sound the alarm, we have an incident.&rdquo;</p>
+				
+				<p class="story">&ldquo;You will do no such thing Sargent.&rdquo; An unmistakable voice stopped the conversation and received their full attention. &ldquo;And you will unhand my Daughter.&rdquo; He gazed at Blair.</p>
+
+				<br><br>
+				
+				<p class="center">2</p>
+
+				<br><br>
+				
+				<p class="story">Dr. William Liddon strode confidently towards the group, losing no time in spite of having to walk with a cane; his eighty&ndash;six years hardly showing. Nash backed away from the younger Liddon and stood like a good soldier. Blair continued to cradle Dorothy&rsquo;s head in his arms.</p>
+
+				<p class="story">&ldquo;Dr. Liddon, your daughter could have a concussion, or worse, you have to let someone examine her.&rdquo;</p>
+
+				<p class="story">&ldquo;I&rsquo;m fine.&rdquo; She stirred, whispering softly.</p>
+
+				<p class="story">Blair immediately refocused his attention on her, his face full of concern; the cigarette still dangling from his mouth.</p>
+
+				<p class="story">&ldquo;You said you didn&rsquo;t have any cigarettes.&rdquo;</p>
+
+				<p class="story">&ldquo;Dorothy, you were unconscious, you need medical attention.&rdquo;</p>
+
+				<p class="story">&ldquo;I told you I&rsquo;m fine, I just need to catch my breath.&rdquo;</p>
+
+				<p class="story">&ldquo;Do you remember what happened?&rdquo; Blair questioned her.</p>
+
+				<p class="story">&ldquo;The experiment &mdash; there was a feedback; larger than expected.&rdquo;</p>
+
+				<p class="story">Nash was relieved to hear her voice, she would be all right, he thought.</p>
+
+				<p class="story">&ldquo;Sargent, I will take over from here, you may return to your post.&rdquo;</p>
+
+				<p class="story">&ldquo;Sir, I can&rsquo;t do that. There&rsquo;s protocol that must be followed in case of an accident.&rdquo; He looked Nash square in the eye. &ldquo;Sound the alarm.&rdquo;</p>
+				
+				<p class="story">Nash managed three steps before William bellowed for his immediate stop. &ldquo;Sargent, do not take one step further.&rdquo; Nash froze. William turned back to Blair. &ldquo;I will inspect this site for damage and report all relevant findings to the necessary people. You will wait outside and contact no one.&rdquo; His accent was more prominent than that of his Daughter&rsquo;s.</p>
+
+				<p class="story">Blair&rsquo;s patience was thinning. &ldquo;Sir, with all due respect, you are a civilian, you do not give the orders in this facility. I am the ranking officer here. Military protocol demands that the commanding officer be notified and that any possible threat to this structure and its personnel be determined.&rdquo; He turned again to Nash, his eyes steely. &ldquo;Nash, the alarm, and contact General Hamilton &mdash; right now.&rdquo;</p>
+
+				<p class="story">&ldquo;Yes, absolutely, contact General Hamilton, but there is no need to sound a general alarm. I can assure you there is no threat to this facility &mdash; or its personnel.&rdquo;</p>
+
+				<p class="story">Blair helped Dorothy to her feet and motioned Nash to bring her a chair. Nash was bewildered; he looked to Blair for strength. &ldquo;Alright fine,&rdquo; he acquiesced, knowing he had won as much of the argument as he was going to. &ldquo;Nash you get the General, I&rsquo;ll stay with the doctor and make sure he doesn&rsquo;t blow anything up.&rdquo; He gently lowered Dorothy into the chair Nash had brought. &ldquo;Make sure he knows everything before he gets here.&rdquo; He took a long look at William, and then at Dorothy. &ldquo;Nash, hold up a minute. Take Dr. Liddon with you,&rdquo; he gestured to Dorothy, &ldquo;and after you&rsquo;ve alerted the General, escort her to med ward.&rdquo;</p>
+
+				<p class="story">&ldquo;Charlie I told you I was fine!&rdquo;</p>
+
+				<p class="story">&ldquo;That&rsquo;s the deal, or it&rsquo;s a general alarm.&rdquo;</p>
+
+				<p class="story">&ldquo;Do as he says Dorothy, go with the young Sargent. After all, better safe than sorry.&rdquo;</p>
+
+				<p class="story">William Liddon gave in quicker than Blair had expected, but in the army you learn to take your victories where you can.</p>
+
+				<p class="story">Nash waited as Dorothy rose from the chair and walked towards him &mdash; and right past him. He caught up to her and matched her quick stride. The door sealed and locked behind them, Nash pushed the elevator call button. It opened right away; there wasn&rsquo;t much traffic at this time of night. Dorothy entered first, then Nash, he may have been army but he was still a gentleman. And Dorothy made him nervous; he didn&rsquo;t want to turn his back on her. He stood silently as the door closed, looking at her with an uncomfortable grin.</p>
+
+				<p class="story">&ldquo;Sargent?&rdquo;</p>
+
+				<p class="story">&ldquo;Yes ma&rsquo;am?&rdquo;</p>
+
+				<p class="story">&ldquo;Are you not going to push a button?&rdquo;</p>
+
+				<p class="story">&ldquo;What?&rdquo;</p>
+
+				<p class="story">&ldquo;To choose a level; this isn&rsquo;t Star Trek, they don&rsquo;t work on their own you know.&rdquo;</p>
+
+				<p class="story">&ldquo;Oh &mdash; right.&rdquo; He leaned in and pushed the &lsquo;level one&rsquo; button. That was crew quarters and low security projects. Thankfully the ride was swift, because Nash was feeling even more uncomfortable now.</p>
+
+				<p class="story">General Myles Hamilton&rsquo;s quarters were not far from the elevator. Nash delicately pushed the doorbell and stood back in attention.</p>
+
+				<p class="story">&ldquo;Who is it?&rdquo; erupted from a speaker just below the doorbell, more than a hint of irritation came with it.</p>
+
+				<p class="story">&ldquo;Nash, sir. There&rsquo;s been an accident in the level five research facility.&rdquo;</p>
+
+				<p class="story">The noise of a sudden rush could be heard from the other side, then the door opened and a half&ndash;dressed General Hamilton appeared. &ldquo;An accident, why wasn&rsquo;t the alarm sounded?&rdquo; It wasn&rsquo;t so much a question as it was a demand. But that was the way that General&rsquo;s talked to Sargent&rsquo;s.</p>
+
+				<p class="story">&ldquo;Sargent Blair decided against a general alarm.&rdquo;</p>
+
+				<p class="story">&ldquo;He decided?! Who told the Sargent he could make decisions?&rdquo; Hamilton was already halfway down the hall. &ldquo;If anything&rsquo;s fucked up in there his next decision will be which of his balls I cut off first.&rdquo;</p>
+
+				<p class="story">&ldquo;Sir, I&hellip;&rdquo;</p>
+
+				<p class="story">&ldquo;Is the situation volatile Sargent?&rdquo;</p>
+
+				<p class="story">&ldquo;No sir, it seems stable for the moment, but&hellip;&rdquo;</p>
+
+				<p class="story">&ldquo;But nothing, Blair breached protocol, and he&rsquo;ll hang for it.&rdquo;</p>
+
+				<p class="story">Brigadier General Myles Hamilton wasn&rsquo;t made tough by the army, he made the army tough. He had the usual crop of precisely trimmed army hair. It was black, though the sides had begun to grey. He was a short man at only 5&rsquo;8&rsquo;&rsquo;, but that never stopped him from getting what he wanted. If anything it made him more determined. His shirt may have had only one star on it, but he could still intimidate Generals with a row of stars on their collar. He was nicknamed iron&ndash;ass by his classmates at the academy. No one called him that to his face anymore, but the nickname had survived.</p>
+
+				<p class="story">&ldquo;General, it wasn&rsquo;t Charlie&rsquo;s fault, my father&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;I should have known he was in the middle of all this.&rdquo; Hamilton bellowed, not letting her finish.</p>
+
+				<p class="story">&ldquo;Sir, Dr. Liddon was very adamant that Sargent Blair not&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;I know Sargent, I know Dr. Liddon very well. But I&rsquo;m still gonna bust Blair&rsquo;s ass for this.&rdquo;</p>
+
+				<p class="story">After another short, but painfully tense elevator ride, they reached level 5. Hamilton charged from the parting doors and headed straight for the lab.</p>
+
+				<p class="story">If the door to the lab hadn&rsquo;t been two feet thick and required a key card to open it, Hamilton would surly have kicked it open.</p>
+
+				<p class="story">&ldquo;Bill, what the hell is going on here?&rdquo; Hamilton never liked to waste time with pleasantries under normal circumstances. He was even less accommodating when awoken in the middle of the night. &ldquo;What did you fuck up now?&rdquo;</p>
+
+				<p class="story">William&rsquo;s mouth was agape. He had known Hamilton for ten years on and off, but still wasn&rsquo;t use to his language. He&rsquo;d usually retaliate by calling him a sailor, which really pissed him off. &ldquo;Nonsense!&rdquo; William blurted. &ldquo;We simply experienced a larger energy feedback than expected during the initial test of the accelerator.&rdquo;</p>
+
+				<p class="story">&ldquo;Initial test? I was of the understanding we were two weeks away from any testing.&rdquo;</p>
+
+				<p class="story">&ldquo;I decided we were ready.&rdquo;</p>
+
+				<p class="story">&ldquo;Bill, you know the procedure. The US government only provided you with the funding for your project with the express knowledge that we be a part of every step. That doesn&rsquo;t mean unauthorized testing.&rdquo;</p>
+
+				<p class="story">&ldquo;No Myles, the US government gave me the funding because none of your best and brightest could do the job.&rdquo;</p>
+
+				<p class="story">Hamilton took a deep breath and forced himself to calm down. &ldquo;Granted, you&rsquo;ve been given a wide birth here because you can do something no one else can, but that will all end if you try and push us out of the loop.&rdquo;</p>
+
+				<p class="story">&ldquo;You can tell Uncle Sam to relax; no one is trying to push anyone out of the loop. I simply felt that it was time&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;I did it, it was me.&rdquo; Dorothy interrupted</p>
+
+				<p class="story">&ldquo;Excuse me?&rdquo; Hamilton said. &ldquo;You did what?&rdquo;</p>
+
+				<p class="story">&ldquo;Dorothy quiet!&rdquo;</p>
+
+				<p class="story">&ldquo;No father, I can&rsquo;t let you take the blame for this. I conducted the unauthorized test. My father knew nothing about it. I thought we were ready, I was sure I had thought of everything. I was so sure.&rdquo;</p>
+
+				<p class="story">Nash looked at Dorothy&rsquo;s face and his concern grew, but it wasn&rsquo;t her welfare he was thinking of. &ldquo;Where&rsquo;s Blair?&rdquo; he said slowly, almost afraid to finish the question.
+				Hamilton made a quick scan of the room. &ldquo;Bill, where is Sargent Blair?&rdquo;</p>
+
+				<p class="story">&ldquo;I&rsquo;m not exactly sure.&rdquo; William answered.</p>
+
+				<p class="story">&ldquo;What do you mean you&rsquo;re not exactly sure?&rdquo; Hamilton leaned in close to William. &ldquo;Where is my officer, Bill?&rdquo;</p>
+
+				<p class="story">&ldquo;He is most likely dead.&rdquo;</p>
+
+				<br><br>
+				
+				<p class="center">3</p>
+				
+				<br><br>
+
+				<p class="story">An accident &mdash; that&rsquo;s what killed Blair. At least that&rsquo;s what William had claimed. Nash couldn&rsquo;t believe that Charlie could be so clumsy. He had just run into the bubble, it didn&rsquo;t add up. Nineteen years of service, he had never just run into anything, but suddenly he did, and he was gone &mdash; vaporized. Nash wasn&rsquo;t sure, but Hamilton believed it so Nash believed it.</p>
+
+				<p class="story">Dorothy&rsquo;s arms dropped to her side. &ldquo;This equipment is shot; it&rsquo;ll take a week to repair it, if it can be repaired.&rdquo; She spun her slender neck towards her father. &ldquo;Though I&rsquo;m not sure why we&rsquo;re even bothering, without the device we cannot produce enough energy to send a tomato back, never mind a man.&rdquo;</p>
+
+				<p class="story">&ldquo;That will not be a problem.&rdquo;</p>
+
+				<p class="story">&ldquo;Really? The key to this entire project is missing and you don&rsquo;t think that&rsquo;s a problem? Would you mind explaining that to me?&rdquo;</p>
+
+				<p class="story">&ldquo;There is a second device.&rdquo; William continued.</p>
+
+				<p class="story">&ldquo;A second device? I wasn&rsquo;t told about any second device.&rdquo;</p>
+
+				<p class="story">&ldquo;It wasn&rsquo;t necessary for you to know.&rdquo;</p>
+
+				<p class="story">&ldquo;Not necessary?&rdquo; Dorothy nearly choked on the words. &ldquo;I am the primary scientist on this project, I should have been aware of something as significant as a second device.&rdquo;</p>
+
+				<p class="story">&ldquo;I thought it best to keep that information exclusive.&rdquo;</p>
+
+				<p class="story">Dorothy&rsquo;s face was flustered and her arms were jutted fiercely at her hips. It was a long way from the weak, pale creature that Blair had cradled in his arms. There was more to this scientist than the benign mediocrity of science, Nash realized.</p>
+
+				<p class="story">&ldquo;Father, you can be so frustrating. I can&rsquo;t believe you didn&rsquo;t trust me with this.&rdquo;</p>
+
+				<p class="story">&ldquo;It wasn&rsquo;t a matter of trust. I know it seems an unforgivable lapse on my part, but my motives will become clear presently.&rdquo; William stroked his white beard and looked anxious for a moment. Then he turned his attention to Nash. &ldquo;Sargent Nash, are you familiar with the work we&rsquo;re doing here?&rdquo; He shook his head even before he had finished. &ldquo;No, of course you couldn&rsquo;t be. This room, which you have faithfully guarded for the last two months, is the heart of the Wakanda Research Complex. This is why we receive outrageous amounts of money from the government, this is why we are constantly under military scrutiny, and to be blunt, this is why you are here.&rdquo;</p>
+
+				<p class="story">&ldquo;General Hamilton already debriefed me on the nature of this mission. You just tell me what to do and I&rsquo;ll do it.&rdquo;</p>
+
+				<p class="story">&ldquo;What did he tell you?&rdquo;</p>
+
+				<p class="story">&ldquo;His orders were clear. I am to locate and retrieve the device which was lost, and if possible, Sargent Blair.&rdquo;</p>
+
+				<p class="story">&ldquo;And if possible?&rdquo;</p>
+
+				<p class="story">&ldquo;The General believes that Sargent Blair is already dead.&rdquo;</p>
+
+				<p class="story">&ldquo;He is, whether he knows it or not.&rdquo;</p>
+
+				<p class="story">Nash wasn&rsquo;t overly fond of the professor&rsquo;s cryptic tone. &ldquo;Sir?&rdquo;</p>
+
+				<p class="story">&ldquo;Sargent Nash, I know in the military you often operate on a need to know basis. And as such you are perfectly comfortable taking orders from General Hamilton and asking no questions, but I am not so comfortable with sending young men into dangerous situations without at least first giving them the reason why.&rdquo;</p>
+
+				<p class="story">&ldquo;Sir, I will follow your orders, as instructed by General Hamilton, but you are under no obligation to explain the details of your science to me, or tell me any more than what I need to know to accomplish the mission.&rdquo;</p>
+
+				<p class="story">&ldquo;No.&rdquo; William&rsquo;s face looked more his age now. &ldquo;For what I&rsquo;m going to ask you to do, you deserve to know the truth.&rdquo;</p>
+
+				<p class="story">Nash liked that tone even less.</p>
+
+				<p class="story">William cleared his throat, as if preparing for a long speech. &ldquo;Four years ago NASA sent a manned mission to mars. They found something, something not mentioned in the press releases.&rdquo;</p>
+
+				<p class="story">&ldquo;The Foundation Mission,&rdquo; Nash broke in, &ldquo;I remember watching it on TV. But I don&rsquo;t remember them finding anything special.&rdquo;</p>
+
+				<p class="story">&ldquo;Do you remember the temporary signal breech on the second day?&rdquo;</p>
+
+				<p class="story">&ldquo;Yeah, it was caused by a solar flare, but it only lasted about an hour.&rdquo;</p>
+
+				<p class="story">&ldquo;It was no solar flare. It was the device. Buried two hundred metres beneath the Martian soil it still managed to give off enough radiation to disrupt communications for nearly an hour. When the astronauts realized what was happening they established secure communications with NASA. When they had signed off for the day, and the prying eyes of the public were gone, they returned to the site and dug up the device. It was emitting levels of radiation equal to a dozen nuclear warheads. The astronauts had to encase the device in a lead shield to minimize their exposure.&rdquo;</p>
+
+				<p class="story">&ldquo;What is the device?&rdquo; the question came out before he could stop it.</p>
+
+				<p class="story">&ldquo;I will tell you, but first the history. For a year and a half NASA engineers tried to figure out what it was, where it had come from, and how such a small device could emit such unheard of levels of radiation.&rdquo; He made a gesture that suggested failure. &ldquo;Then they called me. I was the resident expert in quantum physics at Oxford, they were right to come to me, within a week I had done more than their entire collection of befuddled scientists.&rdquo;</p>
+
+				<p class="story">&ldquo;What did you do?&rdquo;</p>
+
+				<p class="story">&ldquo;I discovered how to turn it off.&rdquo;</p>
+
+				<p class="story">&ldquo;Amazing,&rdquo; Nash said sarcastically.</p>
+
+				<p class="story">William ignored the comment and continued. &ldquo;With the device no longer emitting deadly levels of radiation, a real scientific examination could be done. It took time, but eventually I discovered that the radiation was only a byproduct of its real purpose.&rdquo;</p>
+
+				<p class="story">&ldquo;Which was?&rdquo;</p>
+
+				<p class="story">&ldquo;Which was,&rdquo; he stressed, becoming annoyed with the interruptions, &ldquo;producing energy. Ungodly amounts of energy, the kind of energy heretofore thought impossible to achieve &mdash; under any other circumstances.&rdquo; He turned away from Nash for a moment. &ldquo;Do you see all of this equipment? It is all here for one reason, to control the device; to use it to harness the greatest form of energy known to exist &mdash; zero point energy.&rdquo;</p>
+
+				<p class="story">&ldquo;Zero&ndash;point energy, what&rsquo;s that?&rdquo;</p>
+
+				<p class="story">&ldquo;Simply put, it is the energy which binds the universe. Think of it as the force that keeps electrons in their orbits, and keeps planets from crashing into each other.&rdquo;</p>
+
+				<p class="story">&ldquo;Isn&rsquo;t that gravity?&rdquo;</p>
+
+				<p class="story">William looked disgusted. &ldquo;Let me give you a better example. Imagine a deep sea station, what would happen if you removed the internal pressure?&rdquo;</p>
+
+				<p class="story">&ldquo;It would collapse in on itself.&rdquo;</p>
+
+				<p class="story">&ldquo;Exactly!&rdquo; He said with renewed excitement. &ldquo;That is what zero point energy does, it keeps atoms from imploding. This device causes that very thing.&rdquo;</p>
+
+				<p class="story">&ldquo;Why would you want atoms to&hellip; implode?&rdquo;</p>
+
+				<p class="story">William&rsquo;s disgusted look returned. &ldquo;Energy, Sargent, energy! Have you any idea how much energy is produced by the implosion of a single atom?&rdquo;</p>
+
+				<p class="story">&ldquo;I just guessing but &mdash; a lot?&rdquo;</p>
+
+				<p class="story">&ldquo;A remarkable understatement, but yes a lot.&rdquo;</p>
+
+				<p class="story">&ldquo;I guess the next question is why do you need so much power?&rdquo;</p>
+
+				<p class="story">&ldquo;The world needs power, fossil fuels are nearly exhausted, solar power is unreliable at best, and people are unwilling to give up the luxuries they have become accustomed to, no matter the cost.&rdquo;</p>
+
+				<p class="story">&ldquo;You&rsquo;ll have to excuse my ignorance doctor, but it doesn&rsquo;t look like you trying to make the next hybrid car in here. If you really want to tell me the truth, then please just tell me, without all the mad scientist jargon.&rdquo;</p>
+
+				<p class="story">&ldquo;I am telling you the truth. But you&rsquo;ll never understand your mission until you understand the function of the device and why it was lost.&rdquo;</p>
+
+				<p class="story">&ldquo;Time travel,&rdquo; Dorothy blurted out from a workstation a dozen feet away, &ldquo;this terminals working.&rdquo; She added.</p>
+
+				<p class="story">William gave her a stern glare.</p>
+
+				<p class="story">Nash looked over at Dorothy, then back at William. &ldquo;Time travel, oh man.&rdquo; He rolled his eyes. &ldquo;You&rsquo;ve gotta be kidding me.&rdquo; He laughed and shook his head, clearly showing how ridiculous he thought that was.</p>
+
+				<p class="story">&ldquo;Sargent&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;No wait,&rdquo; he tapped his finger on his temple, &ldquo;now we&rsquo;re getting somewhere. That sounds like just the kind of pointless crap the government would throw money at.&rdquo;</p>
+
+				<p class="story">&ldquo;Pointless!&rdquo; William shouted, genuinely offended. &ldquo;This is hardly pointless; it could change the world as we know it.&rdquo;</p>
+
+				<p class="story">&ldquo;That&rsquo;s the pitch, change the world as we know it, but change sucks and it never does guys like me any good.&rdquo;</p>
+
+				<p class="story">&ldquo;I won&rsquo;t argue progress and philosophy with you, but I do want you to understand what you&rsquo;ve been chosen for and why.&rdquo;</p>
+
+				<p class="story">&ldquo;The why is simple Doctor - containment. Why get some other grunt in here to do the job when I&rsquo;ve already been exposed to the secret,&rdquo; his tone still jovial. &ldquo;we both know nobody holds on to a secret like the army.&rdquo;</p>
+
+				<p class="story">&ldquo;A lesson my daughter could use.&rdquo; He gave her a quick glance. &ldquo;But seeing as she has divulged the secret, I may as well explain the rest. The device was lost, but it is not destroyed. It and Sargent Blair were taken together, they both still exist, and we can determine where and when they are.&rdquo; He gestured to Dorothy, who nodded.</p>
+
+				<p class="story">&ldquo;How?&rdquo; Nash looked at both of them, his tone serious again. He hated feeling out of the loop.</p>
+
+				<p class="story">&ldquo;Without going into the specifics of it,&rdquo; Dorothy began, her fingers working independently at the keyboard. &ldquo;We can calculate their position by the amount of energy used to send them there.&rdquo;</p>
+
+				<p class="story">&ldquo;Then you can tell where Charlie is?&rdquo;</p>
+
+				<p class="story">&ldquo;And more importantly, when.&rdquo; William added.</p>
+
+				<p class="story">&ldquo;Yeah right, when&hellip; but you can figure it out?&rdquo;</p>
+
+				<p class="story">&ldquo;Theoretically, yes.&rdquo; Dorothy moved to another terminal, her back turned to Nash. &ldquo;If the simulations were correct.&rdquo;</p>
+
+				<p class="story">He wasn&rsquo;t sure how to respond to that, so he turned to William.</p>
+
+				<p class="story">&ldquo;Come with me Sargent, and I will do my best to explain everything. Hopefully the truth will allay your concerns.&rdquo; William pulled a swivel chair from a nearby console and sat down, then he motioned Nash to do the same. &ldquo;Are you familiar with any of the modern theories of time travel, quantum realities, or space&ndash;time relations?&rdquo;</p>
+
+				<p class="story">Nash didn&rsquo;t speak, but his <span class="italics">are you kidding?</span> expression answered William&rsquo;s question adequately.</p>
+
+				<p class="story">&ldquo;All right, then let me start from the beginning. Think of the universe as a giant ball with definite edges and boundaries. And even though these boundaries are expanding, the contents of the ball are not changing.&rdquo; Nash&rsquo;s blank look told William his analogy was not working. &ldquo;The universe is expanding; you do know that, right?&rdquo;</p>
+
+				<p class="story">&ldquo;I think I heard that somewhere.&rdquo;</p>
+
+				<p class="story">&ldquo;What you may not know is that while the universe itself grows larger, the number of matter particles within it remain constant. And that, believe it or not, is one of the first keys to understanding time travel. Everything from this point on becomes predictable and calculable once you accept that the number of particles in the universe is finite.&rdquo;</p>
+
+				<p class="story">&ldquo;If you knew that, why did you fry every computer in the room?&rdquo;</p>
+
+				<p class="story">&ldquo;To be quite honest, it was only an unconfirmed theory, until now. We were ninety percent sure that our theory of a finite universe was correct, but we needed to test it. The energy feedback principle, which I developed by the way, was one hundred percent correct&hellip; though admittedly a little na&iuml;ve in regards to the specific amount. &rdquo;</p>
+
+				<p class="story">&ldquo;Energy feedback?&rdquo;</p>
+
+				<p class="story">&ldquo;The shock wave you felt. It was a result of the energy discharge caused by the transference of identical particles from one universe to another.&rdquo;</p>
+
+				<p class="story">&ldquo;Huh?&rdquo;</p>
+
+				<p class="story">&ldquo;Think of every moment in time, every minute, every second, every nanosecond as a separate universe, and in each universe the same number of protons, electrons, quarks, etc; now imagine each one of those separate universes building on top of each other, forming what we know as space and time. Are you following me so far?&rdquo;</p>
+
+				<p class="story">&ldquo;I think so.&rdquo;</p>
+
+				<p class="story">&ldquo;Now imagine for a moment that you could build tunnel to any one of those universes, and sent something through to the other side, what do you think would happen?&rdquo;</p>
+
+				<p class="story">&ldquo;I honestly don&rsquo;t know.&rdquo;</p>
+
+				<p class="story">&ldquo;Consider this basic theory &mdash; opposite charges attract and like charges repel. Now if you remember I stated that the universe &mdash; every universe &mdash; is finite, and it is also full. It will reject any natural attempt to alter the number of particles within it.&rdquo;</p>
+
+				<p class="story">&ldquo;But what you&rsquo;re talking about hardly sounds natural,&rdquo;</p>
+
+				<p class="story">&ldquo;You&rsquo;re right, what we are attempting is beyond nature, and until the discovery of the device, utterly impossible. You see without the astronomical amount of power that the device expels, none of this would be possible.&rdquo;</p>
+
+				<p class="story">&ldquo;It sounds to me like the kind of thing you shouldn&rsquo;t be messing around with.&rdquo;</p>
+
+				<p class="story">&ldquo;Sargent please! Don&rsquo;t be such a sheep. When the Wright Brothers flew at Kitty Hawk people called them crazy, before Chuck Yeager broke the sound barrier people said we shouldn&rsquo;t even try because it couldn&rsquo;t be done. All great triumphs of science were achieved under a cloud of skepticism and fear. This is just another step in the natural course of events.&rdquo;</p>
+
+				<p class="story">&ldquo;But Doctor, this is not your regular link in the evolutionary chain of science. You are using an alien technology, which is probably a thousand years ahead of us, to kick&ndash;start the next renaissance. You can&rsquo;t tell me this is what was meant to be.&rdquo;</p>
+
+				<p class="story">&ldquo;You&rsquo;re wrong Sargent, you simply don&rsquo;t understand.&rdquo;</p>
+
+				<p class="story">&ldquo;Then make me understand Doctor.&rdquo;</p>
+
+				<p class="story">&ldquo;This technology, while alien and incredibly advanced, is perfectly safe and controllable when used properly. I&rsquo;m certain we can compensate for the shock wave.&rdquo;</p>
+
+				<p class="story">&ldquo;And what happened to Charlie?&rdquo;</p>
+
+				<p class="story">&ldquo;No offense Sargent, but what happened to Sargent Blair was his own fault, if he hadn&rsquo;t come in contact with the bubble, none of this would have happened.&rdquo;</p>
+
+				<p class="story">&ldquo;You should have warned him.&rdquo;</p>
+
+				<p class="story">&ldquo;He shouldn&rsquo;t have been here, I told him to leave and allow me to do my job, but he refused, there was nothing I could do.&rdquo; William shuffled in his chair. &ldquo;When my report is written I will place the blame where it is due. The expansion of the bubble, which caused the device to be lost, was the result of Sargent Blair&rsquo;s negligence.&rdquo;</p>
+
+				<p class="story">Nash suddenly felt exhausted; he had lost friends before, that was a reality of army life. Never had anyone&rsquo;s death felt this wrong. Dr. Liddon was purposely omitting something, he was sure of it. &ldquo;Since you brought it up, what is the bubble?&rdquo;</p>
+
+				<p class="story">&ldquo;The bubble is, for lack of a better term, the vehicle that transports you from one moment in time to another. By wrapping the subject in a high&ndash;energy field of fluxing electrons, it enables it to slip through time more easily, creating a mini&ndash;wormhole. On our end we apply enough energy to send the bubble as far back, or forward, as we wish.&rdquo;</p>
+
+				<p class="story">&ldquo;So you just give me a big push and I end up in the Stone Age?&rdquo;</p>
+
+				<p class="story">&ldquo;Unfortunately, it&rsquo;s not quite that simple. Choosing and sending something to a specific moment, whether past or future, is remarkably easy. As you say it depends on how hard we push. The difficulty comes in directing exactly where the subject will exit the wormhole.</p>
+
+				<p class="story">&ldquo;What do you mean where?&rdquo;</p>
+
+				<p class="story">&ldquo;You see, because the universe is expanding, and the galaxies are moving, and the planets are spinning, it is extraordinarily difficult to determine exactly where the Earth was, or will be at any given moment in the past or future. Since space and time have their own separate inertia&rsquo;s, our calculations must be precise or the subject could be lost in the emptiness of space.&rdquo;</p>
+
+				<p class="story">&ldquo;You said it was difficult, but you&rsquo;ve got it figured out&hellip; right?&rdquo;</p>
+
+				<p class="story">&ldquo;I said it was extraordinarily difficult, but yes we have solved the problem. We are able to target a specific time and location by the use of Ephemeris Targeting. It is, I am proud to say my own series of calculations based on the theories of Ephemeris Time.&rdquo;</p>
+
+				<p class="story">&ldquo;And what is Ephem&mdash;, what is that?&rdquo;</p>
+
+				<p class="story">&ldquo;It&rsquo;s a time scale which is measured by the rotation of the planets.&rdquo;</p>
+
+				<p class="story">&ldquo;So then you could slap me down in the middle of Times Square on New Years Eve of 1999 if you wanted to?&rdquo;</p>
+
+				<p class="story">&ldquo;No.&rdquo;</p>
+
+				<p class="story">&ldquo;But you just said that&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;The energy of the bubble would instantly destabilize any matter within its target area. The results would be disastrous.&rdquo;</p>
+
+				<p class="story">&ldquo;You mean like what happened to Charlie?&rdquo;</p>
+
+				<p class="story">&ldquo;Yes; though his situation may be unique. When he came in contact with the bubble it was stable, but not spinning.&rdquo;</p>
+
+				<p class="story">&ldquo;Spinning?&rdquo;</p>
+
+				<p class="story">&ldquo;Too open the wormhole the bubble must spin, reaching a speed greater than that of light, but once then portal is opened, it stops and we can maintain that open link indefinitely.&rdquo;</p>
+
+				<p class="story">&ldquo;So you&rsquo;re saying Charlie went through your wormhole and ended up on the other side, with the device. Could he have survived the trip?&rdquo;</p>
+
+				<p class="story">&ldquo;Whether he arrived at the other end of the portal alive or dead is inconsequential.&rdquo;</p>
+
+				<p class="story">&ldquo;How can you say that? He&rsquo;s a human being for God&rsquo;s sake!&rdquo;</p>
+
+				<p class="story">&ldquo;The device was pulled into the bubble along with Sargent Blair, and as I&rsquo;ve already said, while active it emits deadly levels of radiation. That&rsquo;s why we had built a special platform for it, to shield ourselves from it. So even if he was alive when he came out of the wormhole, the device would already have sealed his fate.&rdquo;</p>
+
+				<p class="story">&ldquo;So even if he&rsquo;s alive, he&rsquo;s dead.&rdquo;</p>
+
+				<p class="story">&ldquo;I&rsquo;m afraid so. But that is not the worst of it. The instant the device emerges from the wormhole it will begin covering the area with radiation. Within four minutes everything in a radius of nine miles will be dying, and it will spread.&rdquo;</p>
+
+				<p class="story">&ldquo;Then my mission is to&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;Shut it down. Before it kills everything&rdquo; William turned to his daughter, busy at one of the few working terminals. &ldquo;Have you determined an entry point?&rdquo;</p>
+
+				<p class="story">&ldquo;The device exited the wormhole on relative date April 3rd, 1943. Terrestrial location is London, England; precisely as predicted.&rdquo;</p>
+
+				<p class="story">&ldquo;Excellent, at least something has gone right tonight.&rdquo;</p>
+
+				<p class="story">&ldquo;You&rsquo;ll have to excuse my continuing ignorance Dr. Liddon, but exactly what has gone right here tonight?&rdquo;</p>
+
+				<p class="story">&ldquo;The test Sargent; before the accident our test subject, a bag of potatoes, was to be sent to London, on April 3rd, 1943. Since the device &emdash; and Sargent Blair were both swallowed while the portal was still open, we had to assume they naturally followed the same path.&rdquo;</p>
+
+				<p class="story">&ldquo;Naturally,&rdquo;</p>
+
+				<p class="story">William smiled exuberantly and pranced around like a man of eighty&ndash;six would never be expected to do. &ldquo;The test was a success; my machine sent them exactly where I wanted them to go!&rdquo;</p>
+				
+				<p class="story">&ldquo;Doctor, a man was killed because of this damn thing, and now millions of people in 1943 London may be next. I don&rsquo;t think jumping around and yelling &lsquo;hooray for science&rsquo; is really appropriate.&rdquo;</p>
+				
+				<p class="story">&ldquo;You&rsquo;re right Sargent, I apologize.&rdquo; The words, solemn and sincere, had barely left his lips before he was on to other business. &ldquo;Dorothy, get the technicians up here, I want everything in this room repaired by the end of the week.&rdquo;</p>
+
+				<br><br>
+
+				<p class="center">4</p>
+
+				<br><br>
+
+				<p class="story">&ldquo;Myles, can I have a word with you?&rdquo;</p>
+
+				<p class="story">&ldquo;Bill,&rdquo; Hamilton looked up from his hand terminal, &ldquo;come on in.&rdquo;</p>
+
+				<p class="story">William walked carefully into Hamilton&rsquo;s office, looking unusually frail and using his cane more than Hamilton had ever seen.</p>
+
+				<p class="story">&ldquo;Is something wrong Bill?&rdquo;</p>
+
+				<p class="story">William&rsquo;s body moaned as he sat heavily in the uncomfortable looking lumbar&ndash;chair facing the Generals desk. &ldquo;It&rsquo;s about the other day, our conversation&hellip;&rdquo;</p>
+
+				<p class="story">Hamilton nodded. &ldquo;Don&rsquo;t worry Bill, I said I&rsquo;d leave that glitch out of the reports and I meant it. As far as everyone in Washington knows, things have never been better.&rdquo;</p>
+
+				<p class="story">William wore a relieved smile.</p>
+
+				<p class="story">&ldquo;I don&rsquo;t want the brass down here asking questions any more than you do. I think we&rsquo;ve had enough of that this week.&rdquo;</p>
+
+				<p class="story">&ldquo;Good&hellip; good.&rdquo; William jiggled his cane. &ldquo;I won&rsquo;t waste anymore of your time.&rdquo; He pushed himself to his feet and left. Hamilton watched him leave but didn&rsquo;t bother to stand.</p>
+
+				<br><br>
+
+				<p class="no-indent">February 14, 2021</p>
+				<p class="no-indent">2159 h Zulu</p>
+
+				<br><br>
+
+				<p class="story">&ldquo;Is everything set?&rdquo; William shouted.</p>
+
+				<p class="story">&ldquo;Yes, I&rsquo;m ready over here.&rdquo; Dorothy replied.</p>
+
+				<p class="story">&ldquo;Nash, are you set?&rdquo;</p>
+
+				<p class="story">Nash stood in the exact center of the nothing area, looking rather like a prisoner awaiting a firing squad.</p>
+
+				<p class="story">&ldquo;I guess,&rdquo; he mumbled, looking around nervously, &ldquo;is it gonna hurt?&rdquo;</p>
+
+				<p class="story">&ldquo;You may feel a little queasy, but there should be no pain.&rdquo; Dorothy&rsquo;s reassuring, yet non&ndash;committal tone did little to change Nash&rsquo;s agitated state.</p>
+
+				<p class="story">&ldquo;I should have stayed in Alberta. The only thing there that can kill you is the winter.&rdquo;</p>
+
+				<p class="story">Dorothy smiled. Nash made a joke and she smiled. All of a sudden he forgot why he was on the verge of vomiting. He had that butterflies feeling again, but they were all his, the experiment hadn&rsquo;t started yet. Think of something else to say, he yelled to himself. But his mind was blank; nothing was coming to him.</p>
+
+				<p class="story">&ldquo;Remember,&rdquo; William broke in, &ldquo;it is imperative that you shut down the device immediately after it emerges from the wormhole. If it remains active for more than a minute, people will start dying.&rdquo;</p>
+
+				<p class="story">&ldquo;You&rsquo;re sure this tracking device will tell me exactly where that thing will come out?&rdquo;</p>
+
+				<p class="story">&ldquo;It&rsquo;s programmed with the coordinates from the test; it will direct you to the site. But don&rsquo;t worry; we&rsquo;ll try to get you as close as possible.&rdquo; Dorothy said warmly.</p>
+
+				<p class="story">&ldquo;The device is on line,&rdquo; William&rsquo;s voice was all business, &ldquo;I&rsquo;m beginning the countdown.&rdquo; That signaled Dorothy&rsquo;s undivided attention to her workstation. &ldquo;Ten, nine, eight&hellip;&rdquo;</p>
+
+				<p class="story">William&rsquo;s voice faded into the background of Nash&rsquo;s mind. All he could see and hear was Dorothy. She was punching buttons and reading off numbers that meant nothing to him, but he couldn&rsquo;t take his eyes off of her.</p>
+
+				<p class="story">&ldquo;Seven, six, five&hellip;&rdquo;</p>
+
+				<p class="story">As she hurriedly performed her tasks her head swung from side to side, followed by that hair, the hair that Nash could never get enough of.</p>
+
+				<p class="story">&ldquo;Four, three, two&hellip;&rdquo;</p>
+
+				<p class="story">He was in love. He&rsquo;d known it from the moment he&rsquo;d first seen her. That was really the only reason he was doing this, to be a hero in her eyes. William was right, this was important to her, he saw that clearly now.</p>
+				
+				<p class="story">&ldquo;One! Dorothy, start the accelerator.&rdquo;</p>
+
+				<p class="story">A flash of intense light surrounded Nash. He closed his eyes instinctively to protect himself from the glare. When he reopened his eyes the light had faded, replaced by a translucent bubble. It encased him completely, and he noticed the floor was no longer where his feet were. He was floating several inches off the ground; it was very unnerving.</p>
+
+				<p class="story">&ldquo;Dr. Liddon!&rdquo;</p>
+
+				<p class="story">William and Dorothy both turned from their stations.</p>
+
+				<p class="story">&ldquo;Don&rsquo;t worry Owen, everything is fine.&rdquo; Dorothy&rsquo;s voice was comforting. She had used his first name, consciously he didn&rsquo;t even notice, but subconsciously it relaxed him.</p>
+
+				<p class="story">The butterflies resurfaced again over his entire body, but this time they were artificial. The room began to slowly spin. Nash realized it was not the room that was spinning, but rather he. Gradually the velocity of the spinning increased, until all Nash could see was colours, streaming around him in brilliant patterns. Yellows and blues blended together to form the purest green Nash had ever seen. Then there were purples, and reds, melting and separating before him. It occurred to him that what he had always thought of as red and blue and yellow and every other colour were not. They were, at best, pale imitations of what he now knew to be true colour.</p>
+
+				<p class="story">There were shades of magnificent wonder he didn&rsquo;t have a name for. To call them indigo or rose were insulting. There was no language Nash knew that could properly translate what he was seeing. But then again he wasn&rsquo;t entirely sure he was seeing anything. He could feel the colours as much as he could see them. His body had become as transparent as the bubble, which he no longer saw. The colours no longer just streamed around him but through him. He felt warmth and cold, freedom and bondage as the phenomenon seemed to pull and push against him. Then it all ended... the universe went black.</p>
+
+				<p class="story">&ldquo;Happy Valentine&rsquo;s Day, Owen,&rdquo; Dorothy whispered.</p>
+
+				<p class="story">Then in the same instance it all reappeared, and the awful white light struck again. When this time he opened his eyes the world was different. The clear bubble was back (if it had ever really left at all) but the lab no longer encircled him. Dorothy&rsquo;s regal face was gone. His new surroundings looked bleak and crippled. Odder than that, they appeared misaligned, it was then Nash realized that once again it was he, and not his environment that was out of whack.</p>
+
+				<p class="story">He and the bubble were hovering above the ground, at least fifteen feet by Nash&rsquo;s estimation. He had always been good at such linear matters, and when the bubbled vanished, he knew he was in trouble. Nash dropped like a rock, coming to the earth with all the appropriate force gravity demanded. But it was the contact with the unyielding ground and not the gravity that separated his shoulder and broke his forearm.</p>
+
+
+				<p class="no-indent">February 15, 2021
+				<p class="no-indent">1316 h Zulu
+
+
+				<p class="story">&ldquo;You pushed him, didn&rsquo;t you?&rdquo;</p>
+
+				<p class="story">&ldquo;Excuse me?&rdquo;</p>
+
+				<p class="story">&ldquo;You killed Charlie.&rdquo; Dorothy Liddon marched into her father&rsquo;s dimly lit office and dropped a hand recorder onto his desk. &ldquo;I tagged the first device with a Nanochip ID; can you guess what I found on the second device?&rdquo;</p>
+
+				<p class="story">William was genuinely surprised, the first time in his life he hadn&rsquo;t seen something coming.</p>
+
+				<p class="story">&ldquo;They never found a second device on Mars, did they? There is only one, there always was only one.&rdquo;</p>
+
+				<p class="story">&ldquo;Dorothy&hellip; I don&rsquo;t think&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;The truth father&hellip; all of it.&rdquo;</p>
+
+				<p class="story">He looked her in the eye for a moment, and then turned away. &ldquo;It was necessary that someone take the blame.&rdquo; He struggled with his words. &ldquo;If you or I were responsible for such an accident, they would have taken away the project instantly. But if it were the army&rsquo;s fault, the result of some bungling non&ndash;commissioned officer, they would bend over backwards to cover it up.&rdquo;</p>
+
+				<p class="story">&ldquo;But why send Nash?&rdquo; she didn&rsquo;t wait for an answer. &ldquo;You obviously have no intention of bringing him back. You want the device in the past to satisfy some kind of predestination paradox, am I right?&rdquo;</p>
+
+				<p class="story">&ldquo;Yes.&rdquo;</p>
+
+				<p class="story">&ldquo;Then why? To appease Hamilton? No&hellip; Nash had a purpose.&rdquo; Her face went pale and she stuttered with open&ndash;mouthed exasperation. &ldquo;He wasn&rsquo;t meant to retrieve the device, he was just meant to&hellip; turn it off!&rdquo;</p>
+
+				<p class="story">&ldquo;Dorothy&hellip; you must understand&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;No father, I understand everything now. That&rsquo;s how you knew so much about the device, why you could do what everyone else couldn&rsquo;t. You weren&rsquo;t smarter than everyone; you had eighty years to figure it out!&rdquo;</p>
+
+				<p class="story">&ldquo;Please don&rsquo;t&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;How did it happen father? Did you stumble upon Nash&rsquo;s dead body &mdash; the device still in his hand?&rdquo;</p>
+
+				<p class="story">William turned away, as if trying to shield himself from her words. &ldquo;Have you ever looked into the eyes of the dead?&rdquo; he finally spoke, his voice low and cold.</p>
+
+				<p class="story">&ldquo;Of course not,&rdquo;</p>
+
+				<p class="story">&ldquo;Well, I have. My mother &mdash; your grandmother, died right in front of me, her eyes wide open, looking into mine.&rdquo;</p>
+
+				<p class="story">&ldquo;You never told me that.&rdquo;</p>
+
+				<p class="story">&ldquo;Every night they came, in endless waves. The ground shook, like it was terrified, and I think it was. We hid in the shelters, just like everyone else.&rdquo; He looked back at Dorothy. &ldquo;Except that one night; they came too fast, there was no warning&hellip; we couldn&rsquo;t get to the shelter in time.&rdquo;</p>
+
+				<p class="story">Dorothy put her arms around her father and held on tightly. &ldquo;It&rsquo;s alright father, you couldn&rsquo;t have done anything.&rdquo;</p>
+
+				<p class="story">&ldquo;After that I survived by sheer luck,&rdquo; he kept going, &ldquo;hiding in abandoned buildings, inches from death. Covered in filth and half starved.&rdquo;</p>
+
+				<p class="story">&ldquo;It&rsquo;s alright.&rdquo; She repeated. &ldquo;Come, sit down. We&rsquo;ll think of a way out of this.&rdquo;</p>
+
+				<p class="story">William looked fragile; Dorothy had never seen him like this. And more importantly, she didn&rsquo;t know how to fix it.</p>
+
+				<p class="story">&ldquo;I did find Nash,&rdquo; William spoke, sounding ashamed. &ldquo;Barely alive, suffering from extreme radiation burns. He must have been like that for some time. His radiation suit was torn, he said it happened in a fall, but he was barely lucid.&rdquo;</p>
+
+				<p class="story">Dorothy smoothed his thin, white hair. She felt only pity for him now. He looked so helpless.</p>
+
+				<p class="story">&ldquo;He must have known he was dying. He gave me the device, told me to wait for a bright light. He said when I saw it to throw the box into the light.&rdquo;</p>
+
+				<p class="story">&ldquo;But the light never came.&rdquo; Dorothy finished.</p>
+
+				<p class="story">&ldquo;No&hellip; the light never came.&rdquo;</p>
+
+				<p class="story">&ldquo;Because you&hellip; because we never sent the return portal.&rdquo; Dorothy dropped her eyes to the floor and back at William. &ldquo;You&rsquo;ve been waiting for this to come full circle for seventy&ndash;eight years.&rdquo;</p>
+
+				<p class="story">&ldquo;Fate has almost fulfilled itself.&rdquo; He exhaled.</p>
+
+				<p class="story">&ldquo;What do you mean almost?&rdquo;</p>
+
+				<p class="story">&ldquo;There was another body at the site. It was off to the side, I didn&rsquo;t notice it at first.&rdquo;</p>
+
+				<p class="story">&ldquo;You mean Charlie&rsquo;s body.&rdquo;</p>
+
+				<p class="story">&ldquo;No&hellip; I mean a third body; half naked &mdash; a bullet in his chest.&rdquo;</p>
+
+				<p class="story">&ldquo;A civilian casualty?&rdquo;</p>
+
+				<p class="story">&ldquo;That&rsquo;s what I thought, until I met that face again ten years ago.&rdquo;</p>
+
+				<p class="story">&ldquo;No father&hellip; not&mdash;&rdquo;</p>
+
+				<p class="story">&ldquo;Hamilton.&rdquo;</p>
+
+				<p class="story">&ldquo;You can&rsquo;t do it father, enough people have died already.&rdquo;</p>
+
+				<p class="story">&ldquo;It&rsquo;s beyond my control.&rdquo; He seemed weak and tired. &ldquo;There is no escaping fate.&rdquo;</p>

@@ -1,0 +1,221 @@
+/* Byron Stuike CSS: byronstuike.com */
+
+/*------------Default Attributes----------------*/
+:root {
+	--dark-primary-color: #303F9F;
+	--default-primary-color: #3F51B5;
+	--light-primary-color: #C5CAE9;
+	--text-primary-color: #FFFFFF;
+	--accent-color: #4CAF50;
+	--primary-text-color: #212121;
+	--secondary-text-color: #757575;
+	--divider-color: #BDBDBD;
+}
+
+html {
+	box-sizing: border-box;
+	font-family: 'Fira Code', 'Segoe UI', Tahoma, Courier, 'Courier New', Helvetica, Verdana, Arial, sans-serif;
+	background-color: var(--dark-primary-color);
+	scroll-behavior: smooth;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: inherit;
+}
+
+/* Image Attributes */
+img {
+	max-width: 100%;
+	margin: 0rem 0.3rem;
+}
+
+/* establishes default attributes for everything outside the head */
+body {text-align: center; color: var(--text-primary-color);}
+
+section, article {margin: 4rem;}
+
+/* changes the attributes of the title banner at the top of the page */
+header {
+	display: flex;
+	flex-flow: row nowrap;
+	align-items: center;
+	justify-content: flex-end;
+	padding: 0rem 1rem;
+   background: linear-gradient(to right, rgba(63,81,181,0), rgba(63,81,181,1));
+}
+
+h1 {font-size: 2.5em;}
+
+ul {
+	display: flex;
+	align-items: center;
+	list-style-type: none;
+	margin: 0.5rem;
+}
+
+button, a#back {
+	display: none;
+	z-index: -1;
+	font-size: 22px;
+	border: none;
+	outline: none;
+	background-color: var(--accent-color);
+	color: var(--text-primary-color);
+	cursor: pointer;
+	border-radius: 4px;
+	padding: 16px 17px;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+	animation-duration: 1s;
+	animation-fill-mode: both;
+}
+
+/* rules for the user interactions with links. Default value is grey with a white mouse over */
+a:link {color: var(--accent-color); text-decoration: none;}    /* unvisited link */
+a:visited {color: var(--accent-color); text-decoration: none;} /* visited link */
+a:hover {color: var(--text-primary-color); text-decoration: none;}   /* mouse over link */
+a:active {color: var(--text-primary-color); text-decoration: none;}  /* selected link */
+
+/* definitions for various heading sizes and positioning */
+/* h1 {font-size: 3em;} */
+
+@keyframes fadeIn {
+	0% {opacity: 0;}
+	100% {opacity: 1;}
+}
+
+@keyframes fadeOut {
+	0% {opacity: 1;}
+	100% {opacity: 0;}
+}
+
+.fadeIn {
+	animation-name: fadeIn;
+}
+
+.fadeOut {
+	animation-name: fadeOut;
+}
+
+/* changes the attributes of the text box created to resemble a book page */
+#page {
+	text-align: justify;
+	color: var(--primary-text-color);
+	background-color: #F8F8FF; /* off white */
+   line-height: 1.6;
+   border: 2px solid #F8F8FF; /* off white */
+	padding: 3rem;
+	border-radius: 20px;
+	box-shadow: 10px 10px 5px #000040; /* dark blue */
+}
+
+#up {
+	position: fixed;
+	bottom: 8px;
+	right: 8px;
+	z-index: 99;
+}
+
+#back {
+	position: fixed;
+	bottom: 8px;
+	left: 8px;
+	z-index: 99;
+}
+
+#banner {color: var(--text-primary-color);}
+
+#banner:hover {color: var(--accent-color);}
+
+.no-indent {text-indent: 0;}
+
+.center-block {text-align: center;}
+
+/* modifications made to text */
+.green {color: #4CAF50; display: inline;}
+
+.purple {color: #8a2be2; display: inline; font-weight: bold;}
+
+.lucida {font-family: 'Lucida Handwriting';}
+
+.viner-hand {font-family: 'Viner Hand ITC';}
+
+.book-ant {font-family: 'Book Antiqua';}
+
+.chiller {font-size: 3em; font-family: Chiller;}
+
+.harrington {font-family: Harrington;}
+
+.consolas {font-family: Consolas;}
+
+.divider {color: var(--light-primary-color);}
+
+.red-strike {
+	text-decoration: line-through;
+	text-decoration-color: #FF0000; /* red */
+	text-decoration-style: wavy;
+	display: inline;
+}
+
+.list {
+	position: fixed;
+	bottom: 8em;
+	left: 0;
+	background-color: rgba(255, 69, 0, 1);
+	font-size: 12px;
+	padding: 1em;
+	display: none;
+	border-radius: 0 5px 5px 0; /* top right bottom left */
+	box-shadow: 1px 1px 1px #000040; /* dark blue */
+}
+
+.list:hover {
+    background-color: rgba(135, 135, 135, 0.50);
+}
+
+.jump {
+	position: fixed;
+	bottom: 7em;
+	right: 0;
+	background-color: rgba(255, 69, 0, 1);
+	font-size: 12px;
+	padding: 1em;
+	display: none;
+	border-radius: 5px 0 0 5px; /* top right bottom left */
+	box-shadow: 1px 1px 1px #000040; /* dark blue */
+}
+
+.jump:hover {background-color: rgba(135, 135, 135, 0.50);}
+
+/* float right for the rss feed */
+.rss {position:fixed; bottom: 1em; right: 2em;}
+
+
+/* float left for the html5 link */
+.html5 {position:fixed; bottom: 2em; left: 2em;}
+
+
+/* the parent element governing the external links at the bottom of the page */
+.boot {margin: 5% 0 0; width: 100%;} /* top right bottom left */
+
+
+/* the child element governing the external links at the bottom of the page */
+.heel {max-width: 700px; margin: 0 auto;}
+
+#copyright {
+	display: block;
+	font-size: 11px;
+}
+
+.transform:hover {transform: scale(1.2, 1.2);}
+
+
+/* holds the copyright information at the bottom of the page */
+footer {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: space-between;
+	margin: 5rem 1rem 1rem 1rem;
+}
